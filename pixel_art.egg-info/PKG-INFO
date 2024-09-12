@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: pixel_art
+Version: 0.1
+Summary: Package for drawing pixel art to the terminal.
+Author: Carolina Lennon
+Requires-Dist: colorama
